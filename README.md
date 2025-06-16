@@ -8,6 +8,8 @@ This tutorial is dedicated to topological analysis of complex time series.
 
 We’ll all use the PySPI dataset: https://zenodo.org/records/7118947
 
+Detailed information can be found in the Supporting Information of the paper "Unifying pairwise interactions in complex dynamics" by Cliff et al., found here: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://static-content.springer.com/esm/art%3A10.1038%2Fs43588-023-00519-x/MediaObjects/43588_2023_519_MOESM1_ESM.pdf
+
 ### References
 
 Bandt, C., & Pompe, B. (2002). Permutation Entropy: A Natural Complexity Measure for Time Series. Physical Review Letters, 88(17), 174102. https://doi.org/10.1103/PhysRevLett.88.174102
