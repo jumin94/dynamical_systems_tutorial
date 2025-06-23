@@ -25,3 +25,5 @@ Mindlin, G. B., Hou, X.-J., Solari, H. G., Gilmore, R., & Tufillaro, N. B. (1990
 Mindlin, G. M., & Gilmore, R. (1992). Topological analysis and synthesis of chaotic time series. Physica D: Nonlinear Phenomena, 58(1–4), 229–242. https://doi.org/10.1016/0167-2789(92)90111-Y
 
 Takens, F. (1981). Detecting strange attractors in turbulence. In D. Rand & L.-S. Young (Eds.), Dynamical Systems and Turbulence, Warwick 1980 (Vol. 898, pp. 366–381). Springer Berlin Heidelberg. https://doi.org/10.1007/BFb0091924
+
+Uribarri G. and Mindlin G. B. (2020). The structure of reconstructed flows in latent spaces, Chaos 30, 093109 https://doi.org/10.1063/5.0013714
